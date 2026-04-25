@@ -1,16 +1,20 @@
-## Hi there 👋
+# Achievements
 
-<!--
-**naveenkumaraj033-coder/naveenkumaraj033-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 My Achievements
 
-Here are some ideas to get you started:
+- 📉 Reduced churn by 40% (Zomato DP Churn Project)  
+- 📊 Improved conversion insights through Swiggy Funnel Analysis  
+- 🚀 Achieved 3x project growth at Awign Enterprises  
+- 🛡️ Detected 40%+ fraud cases at Guardian Bank  
+- 💰 Generated ₹7M in revenue through data-driven insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![SQL](https://img.shields.io/badge/SQL-Expert-blue)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-orange)
+
+## 🚀 Impact
+- Reduced churn by 40%  
+- Increased revenue by ₹7M  
+- Improved operational efficiency
+
+- ![Stats](https://github-readme-stats.vercel.app/api?username=naveenkumaraj033-coder)
