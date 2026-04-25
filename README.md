@@ -27,21 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenkumaraj033-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naveenkumaraj033-coder&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumaraj033-coder&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ### 📌 Projects & Impact
 ✨ Reduced churn by **40%** (Zomato Churn Project)  
@@ -86,5 +71,21 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-orange)
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenkumaraj033-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naveenkumaraj033-coder&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumaraj033-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
